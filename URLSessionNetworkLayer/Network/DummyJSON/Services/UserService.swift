@@ -42,8 +42,6 @@ extension UserService {
             }
         }
         
-        task.resume()
-        
         return task
     }
 }
